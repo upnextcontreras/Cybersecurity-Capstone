@@ -14,4 +14,4 @@ Develop a strong foundational understanding of threat intelligence by conducting
 - Reflect on the importance of continuous threat intelligence monitoring.
 
 **Deliverables:**
-- 📝 5–7 page Threat Intelligence Research Report (APA style, double-spaced, 12-point font)
+- 5–7 page Threat Intelligence Research Report (APA style, double-spaced, 12-point font)
