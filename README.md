@@ -24,3 +24,30 @@ Partnering with ACME College, ACME Corporation has recruited new talent to revam
 - Resistance to modernization efforts
 
 ---
+
+# 🖥️ Technologies Used
+
+- **Cloud Providers:** AWS / Azure / GCP
+- **Virtualization Tools:** VMware, Azure Migrate, AWS VM Import/Export
+- **Security Frameworks:** NIST, GDPR, CCPA
+- **Software:** Kali Linux, Windows Server 2022, Metasploitable VM
+- **Documentation Tools:** Microsoft Word, PowerPoint, Canvas LMS
+
+---
+
+# 🧠 Skills Developed
+
+- Cybersecurity Policy Development
+- Cloud Migration Planning & Execution
+- OS Hardening & Security Auditing
+- Identity and Access Management (IAM)
+- Incident Response Planning
+- Risk Assessment & Mitigation
+- Network Design and Security Architecture
+- Executive Communication and Policy Enforcement
+
+---
+
+# 📌 Notes
+
+> ⚡ **This project is intended for educational purposes as part of the CSUF Cybersecurity Capstone
