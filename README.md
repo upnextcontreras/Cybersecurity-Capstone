@@ -1,12 +1,12 @@
 # ACME Corporation Cybersecurity Modernization and Cloud Migration
 
-## 📚 Project Overview
+## Project Overview
 Welcome to the ACME Corporation Capstone Project!  
 This project focuses on modernizing the cybersecurity posture of ACME Corporation and leading a full-scale cloud migration effort. As a newly hired Security Analyst from ACME College, your goal is to bring a fresh, modern approach to improving ACME’s outdated security infrastructure while ensuring a smooth transition to cloud technologies.
 
 ---
 
-## 🏢 Background
+## Background
 
 ACME Corporation is a mid-sized manufacturing company specializing in consumer electronics, with approximately 500 employees. Over the past decade, ACME has seen steady growth but has relied on aging, on-premises IT systems, leading to operational inefficiencies and elevated maintenance costs.
 
@@ -25,17 +25,17 @@ Partnering with ACME College, ACME Corporation has recruited new talent to revam
 
 ---
 
-# 🖥️ Technologies Used
+# Technologies Used
 
-- **Cloud Providers:** AWS / Azure / GCP
-- **Virtualization Tools:** VMware, Azure Migrate, AWS VM Import/Export
+- **Cloud Providers:** Azure
+- **Virtualization Tools:** VMware, Azure Migrate
 - **Security Frameworks:** NIST, GDPR, CCPA
 - **Software:** Kali Linux, Windows Server 2022, Metasploitable VM
-- **Documentation Tools:** Microsoft Word, PowerPoint, Canvas LMS
+- **Documentation Tools:** Microsoft Word, Canvas LMS
 
 ---
 
-# 🧠 Skills Developed
+# Skills Developed
 
 - Cybersecurity Policy Development
 - Cloud Migration Planning & Execution
@@ -48,6 +48,6 @@ Partnering with ACME College, ACME Corporation has recruited new talent to revam
 
 ---
 
-# 📌 Notes
+# Notes
 
 > ⚡ **This project is intended for educational purposes as part of the CSUF Cybersecurity Capstone
