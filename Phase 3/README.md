@@ -1,6 +1,6 @@
 ## Project Phases
 
-### Phase 2: Cloud Migration Strategy, Execution, and Post-Migration Review
+### Phase 3: Cloud Migration Strategy, Execution, and Post-Migration Review
 
 **Objective:** Oversee ACME Corporation's transition from on-premises infrastructure to the cloud, execute the initial batch migration, evaluate success, and drive cultural transformation within the Information Security Department.
 
