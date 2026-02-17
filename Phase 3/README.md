@@ -36,6 +36,3 @@
 * Migration Timeline (PDF/DOCX/JPG/PNG)
 * Migration Plan Document (includes network design, risk assessment, security considerations)
 * Post-Completion Write-Up with Lessons Learned (PDF/DOCX)
-* Cost Analysis Report
-* Video Presentation (MP4 format)
-* Cultural Transformation Recommendations
